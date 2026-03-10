@@ -1,0 +1,23 @@
+# Python-specific .gitignore patterns
+
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Distribution / packaging
+.Python
+env/
+build/
+dist/
+
+# Virtual environment
+venv/
+ENV/
+env.bak/
+
+# IDEs
+.idea/
+.vscode/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
